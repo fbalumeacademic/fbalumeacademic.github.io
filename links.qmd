@@ -1,0 +1,31 @@
+---
+title: "Data and useful links"
+editor: visual
+Links:
+  - text: LBO Data from B. Ayash
+    ref: <https://sites.google.com/view/brian-ayash>
+---
+
+## Data
+
+-   [LBO Data from B. Ayash](https://sites.google.com/view/brian-ayash)
+
+-   [Yahoo Finance](https://finance.yahoo.com/)
+
+-   [Financial scandals](http://projects.exeter.ac.uk/RDavies/arian/scandals/)
+
+## Useful links
+
+-   [Harvard cases](https://hbsp.harvard.edu/home/)
+
+-   [Cases from Ivey](https://www.iveypublishing.ca/s/)
+
+-   [Fama-French portfolios and risk factors from Kenneth French's](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+
+-   [Carver and White's BIS/BAS Scales form Psychological Testing Online](https://psytests.org/trait/bisbasen.html)
+
+-   [SSRN's Financial Economics Network](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203#AnnType_1)
+
+-   [Warren Buffet company and writtings](https://www.berkshirehathaway.com)
+
+-   [Vernimmen Finance](https://www.vernimmen.net) (ressource en français)

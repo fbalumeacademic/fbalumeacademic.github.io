@@ -1,0 +1,18 @@
+---
+title: "Feedback on my PhD studies"
+description: "Now that I've defended my thesis, I'd like to give you some feedback on my thesis experience."
+author:
+  - name: Fidèle Balume
+    url: https://fbalumeacademic.github.io/
+    orcid: 0009-0000-5996-3547
+    affiliation: Magellan Laboratory, iaelyon school of management
+    affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
+date: 08-24-2022
+categories: [PhD, Research] # self-defined categories
+citation: 
+  url: https://fbalumeacademic.github.io/posts/2023-06-30-UNCCharlotte-visiting/ 
+image: PhDDefense.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Coming soon !

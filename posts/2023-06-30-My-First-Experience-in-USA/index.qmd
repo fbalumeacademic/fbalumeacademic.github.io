@@ -1,0 +1,18 @@
+---
+title: "First experience in USA"
+description: "Discovering the americain dream"
+author:
+  - name: Fidèle Balume
+    url: https://fbalumeacademic.github.io/
+    orcid: 0009-0000-5996-3547
+    affiliation: Magellan Laboratory, iaelyon school of management
+    affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
+date: 07-14-2023
+categories: [Visiting Scholar, PhD, Research] # self-defined categories
+citation: 
+  url: https://fbalumeacademic.github.io/posts/2022-10-24-my-blog-post/ 
+image: UNCC-Image.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Coming soon !

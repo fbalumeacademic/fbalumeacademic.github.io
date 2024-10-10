@@ -1,0 +1,24 @@
+---
+title: "Immersion in Behavioral Finance and presentation of my research at the University of Aarhus"
+description: "I'm giving you my feedback on my immersion in Behavioral Finance and on the Presentation of My Research at the University of Aarhus this summer"
+author:
+  - name: Fidèle Balume
+    url: https://fbalumeacademic.github.io/
+    orcid: 0009-0000-5996-3547
+    affiliation: Magellan Laboratory, iaelyon school of management
+    affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
+date: 08-24-2022
+categories: [PhD, Visiting, Research] # self-defined categories
+citation: 
+  url: https://fbalumeacademic.github.io/posts/2023-06-30-UNCCharlotte-visiting/ 
+image: Aarhus-monument.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+J'ai notamment passé du temps précieux avec Nathalie, Benedicte et Mortens. Nos échanges avec Mortens m'ont énormément appris sur la culture danoise. Mortens travaille dans la comptabilité, mais il a énormement voyagé à travers le monde. J'ai remarqué dans sa bibliothèque beaucoup d'ouvrages de philosophie dont une bonne partie de l'oeuvre de Kierkegarde.
+
+Avec une collegue de classe Christine, j'ai également eu l'opportunité de visiter la ville d'Aarhus.
+
+Nathalie m'a fait visité plusieurs petits parks de la ville d'Aarhus. Grâce à elle, mes moments de repas étaient de très bons moments. Elle a toujours été disponible malgré sa charge de travail énorme. Elle travaillait parfois la nuit en tant qu'infirmière à l'hopital. Avec Nathalie, nous sommes allés à l'intérieur du Danemark et comme l'Allemange n'était pas très éloigné, nous sommes allés jusqu'en Allemange. J'ai vraiment passé du bon temps avec Nathalie. On était également partie visiter le chateau de la reine du Danemark. On a visité pas très loin de ce chateau le park regorgeant quelques animaux sauvages avec particulièrement un grand nombre des lièvres. Bref, j'ai beaucoup de grand moments avec Nathalie... J'en profite pour te dire un grand merci Nathalie Kwaba Kabayu en espérant que tu liras ces quelques lignes.
+
+Enfin, j'ai eu quelques séances de sport à l'exterieur en faisant du jogging qui m'ont permis de parcourir la ville. Comme on dit, on decouvre mieux la ville en y faisant du jogging (conseil gratuit :) )
