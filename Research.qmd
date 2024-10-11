@@ -47,7 +47,7 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 
 ##### Modèle de balance comptable : 
 
-###### Cas Les Transports Réunis : [Modèle Balance fichier Word](BalanceModelTransR.docx)
+###### Cas Les Transports Réunis : [Modèle Balance - fichier Word)](BalanceModelTransR.docx)
 
-###### Cas Germain et Les Transports Réunis : [Modèle Balance fichier excel](BalanceModel.xlsx)
+###### Cas Germain et Les Transports Réunis : [Modèle Balance - fichier excel](BalanceModel.xlsx)
 
