@@ -7,9 +7,9 @@ editor: visual
 
 ## Publications
 
-[Balume, F., (2024). Fonds Vautours, Coûts Cognitifs et Faillite des LBO, *Finance Contrôle Stratégie*](https://journals.openedition.org/fcs/12793) (27-2)
+[Balume, F., (2024). Fonds Vautours, Coûts Cognitifs et Faillite des LBO, *Finance Contrôle Stratégie* (27-2)](https://journals.openedition.org/fcs/12793)
 
-[Balume, F., (2024). Vulture Funds, Cognitive Cost and LBO Bankruptcy. *Finance Contrôle Stratégie*](https://journals.openedition.org/fcs/12700) (27-2)
+[Balume, F., (2024). Vulture Funds, Cognitive Cost and LBO Bankruptcy. *Finance Contrôle Stratégie* (27-2)](https://journals.openedition.org/fcs/12700)
 
 [Balume, F., Gajewski, J. F., & Heimann, M. (2024). Cognitive Load, Social Values, and Financial Distress: Drivers of Restructuring Decisions. *Review of Accounting and Finance*.](https://www.emerald.com/insight/content/doi/10.1108/RAF-07-2023-0212/full/html)
 
@@ -40,7 +40,7 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 #### - Fondamentaux de la finance
 ##### Modèles de tableaux :
 
-###### Choix d'investissement : [Modèle FTN, VAN, TRI & IP](ModèleChoixInvestissement.xlsx)
+###### Choix d'investissement : [Modèle FTN, VAN, TRI & IP - fichier Excel](ModèleChoixInvestissement.xlsx)
 
 #### - Contrôle de gestion
 
@@ -52,4 +52,4 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 
 ###### Cas Les Transports Réunis : [Modèle Balance - fichier Word](BalanceModelTransR.docx)
 
-###### Cas Germain et Les Transports Réunis : [Modèle Balance - fichier excel](BalanceModel.xlsx)
+###### Cas Germain et Les Transports Réunis : [Modèle Balance - fichier Excel](BalanceModel.xlsx)
