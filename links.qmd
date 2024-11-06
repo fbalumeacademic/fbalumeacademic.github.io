@@ -16,16 +16,28 @@ Links:
 
 ## Useful links
 
+-   [Big Five Personality Test](https://openpsychometrics.org/tests/IPIP-BFFM/)
+
+-   [Open Hemispheric Brain Dominance Scale](https://openpsychometrics.org/tests/OHBDS/)
+
+-   [Short Dark Triad](https://openpsychometrics.org/tests/SD3/)
+
+-   [Carver and White's BIS/BAS Scales from Psychological Testing Online](https://psytests.org/trait/bisbasen.html)
+
 -   [Harvard cases](https://hbsp.harvard.edu/home/)
 
 -   [Cases from Ivey](https://www.iveypublishing.ca/s/)
 
--   [Fama-French portfolios and risk factors from Kenneth French's](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+-   [Yale Case studies](https://som.yale.edu/case-studies/case-studies-directory?page=0&search=&sort=ds_field_case_published%20desc)
 
--   [Carver and White's BIS/BAS Scales form Psychological Testing Online](https://psytests.org/trait/bisbasen.html)
+-   [Central des cas et de medias pédagogiques](https://www.casestudies.ccmp.fr) (ressources en français)
+
+-   [Vernimmen Finance](https://www.vernimmen.net) (ressource en français)
+
+-   [Fama-French portfolios and risk factors from Kenneth French's](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 
 -   [SSRN's Financial Economics Network](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203#AnnType_1)
 
 -   [Warren Buffet company and writtings](https://www.berkshirehathaway.com)
 
--   [Vernimmen Finance](https://www.vernimmen.net) (ressource en français)
+
