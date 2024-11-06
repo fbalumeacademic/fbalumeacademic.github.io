@@ -1,0 +1,18 @@
+---
+title: "Can multinational organizations significantly improve daily life in member countries?"
+description: "How a category of hedge funds represents a serious threat to corporate sustainability"
+author:
+  - name: Fidèle Balume
+    url: https://fbalumeacademic.github.io/
+    orcid: 0009-0000-5996-3547
+    affiliation: Magellan Laboratory, iaelyon school of management
+    affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
+date: 08-11-2024
+categories: [Vulture funds, Research] # self-defined categories
+citation: 
+  url: https://fbalumeacademic.github.io/posts/2024-11-14-Can-Multinational-Organizations-(IMF-BIRD)-Significantly-Improve-Daily-Life-In-Member-Countries?/ 
+image: Vulture-funds.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Coming soon !
