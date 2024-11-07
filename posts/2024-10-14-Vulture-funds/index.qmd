@@ -7,15 +7,19 @@ author:
     orcid: 0009-0000-5996-3547
     affiliation: Magellan Laboratory, iaelyon school of management
     affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
-date: 10-14-2024
-categories: [Vulture funds, Hedge Funds, Corporate Debt, Sovereign Debt, Financial Instability, Ethics, Research] # self-defined categories
+date: 11-07-2024
+categories: [Vulture funds, Hedge Funds, Corporate Debt, Sovereign Debt, Financial Instability, Ethics, IMF, BIRD, Multilateral Institutions, Research] # self-defined categories
 citation: 
-  url: https://fbalumeacademic.github.io/posts/2024-10-14-Vulture-funds/ 
+  url: https://fbalumeacademic.github.io/posts/2024-11-07-Vulture-funds/ 
 image: Vulture-funds.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-In this post, I would like to discuss the funds identified by researchers in finance and economics as a specific category of hedge funds called vulture funds. There are indeed investors whose actions are comparable to those of vultures on companies, or even governments. Indeed, the very first research on this subject focused almost exclusively on the impact of these funds on governments. One of the very first studies to document the impact of vulture funds on companies is Gietzman, 2018. In my 2024 study, I propose an in-depth exploration of the notion of vulture funds. In particular, I describe the role of vulture funds in the failure of companies due to their actions throughout the period of financial distress. These troubled financial periods are perfect for vulture funds to buy this type of debt, which they use as a leverage tool for the debtor. They typically seek to maximize returns by employing a variety of aggressive strategies, such as legal action or revising pricing terms that are favorable only to them, but which may exacerbate the financial difficulties faced by the original borrower. The analysis revolves around the following key points:
+### Definition and general considerations
+
+In this post, I would like to discuss the funds identified by researchers in finance and economics as a specific category of hedge funds called vulture funds. There are indeed investors whose actions are comparable to those of vultures on companies, or even governments. Indeed, the very first research on this subject focused almost exclusively on the impact of these funds on governments. One of the very first studies to document the impact of vulture funds on companies is Gietzman, 2018. In my 2024 study, I propose an in-depth exploration of the notion of vulture funds. In particular, I describe the role of vulture funds in the failure of companies due to their actions throughout the period of financial distress. These troubled financial periods are perfect for vulture funds to buy this type of debt, which they use as a leverage tool for the debtor. They typically seek to maximize returns by employing a variety of aggressive strategies, such as legal action or revising pricing terms that are favorable only to them, but which may exacerbate the financial difficulties faced by the original borrower.
+
+### Key results **and important points of analysis**
 
 **Acquisition strategy:**
 
@@ -42,5 +46,15 @@ According to studies carried out on vulture funds at country level, these funds 
 This financial pressure slows economic recovery and exacerbates poverty, as resources that could be invested in development are diverted to satisfy the demands of these creditors. Financing costs also rise, as the risk of having debt bought by vulture funds in the event of default prompts investors to demand higher interest rates to compensate for this risk, further increasing the debt burden for fragile countries.
 
 In terms of governance, the influence of vulture funds can lead to a loss of economic sovereignty for the countries affected. Budgetary decisions become constrained by the obligation to meet the demands of these creditors, limiting the ability of governments to pursue autonomous policies based on the needs of their populations. In addition, the legal procedures and agreements imposed by these funds, often in foreign jurisdictions, hamper a country's ability to manage its own debt in a sovereign and orderly manner. This influence not only disrupts political stability, but also weakens local institutions by imposing governance geared towards short-term financial goals rather than long-term development.
+
+### Potential actions
+
+**Controlling vulture funds through legislation and concrete action**
+
+Just as Belgium has begun to do, countries would do well to strengthen their legislative arsenal to limit the action of vulture funds, which take advantage of companies in difficulty by buying up their debts in order to increase their profits under conditions that are detrimental to the economy. Governments can prevent the financial destabilization of strategic companies by introducing laws strictly regulating such takeovers. Furthermore, the creation of sovereign wealth funds able to buy up, in partnership with investors, the debt of national companies in difficulty would offer a solid and more stable alternative to speculative private capital. Such an initiative would protect local economies, reduce the hold of vulture funds, and ensure better management of resources to support long-term growth.
+
+**Favoring multilateral institutions over vulture funds to better manage sustainable development:**
+
+At state level, it would be far more advantageous for countries in financial difficulty to comply with the conditions of the major multilateral institutions, such as the International Monetary Fund (IMF) or the World Bank (BIRD), in order to obtain financing. These institutions offer loans at preferential rates and also provide technical support to strengthen economic stability, governance and sustainable development. On the other hand, recourse to vulture funds exposes countries to increased financial pressure, as these private investors seek to maximize their profits by imposing strict and often costly repayment conditions. Turning to multilateral institutions not only eases the debt burden, but also preserves public resources for essential investments in infrastructure, education and health, thereby contributing in a more balanced and sustainable way to a country's economic development.
 
 Access my study in *Finance-Contrôle-Stratégie* academic journal [here](https://journals.openedition.org/fcs/12700)

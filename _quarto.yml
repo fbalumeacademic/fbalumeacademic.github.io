@@ -6,6 +6,7 @@ website:
   title: "Fidèle Balume"
   navbar:
     background: primary
+    margin-header: subscribe.html
     left:
       - href: index.qmd
         text: Home
