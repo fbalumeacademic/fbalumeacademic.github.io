@@ -8,14 +8,14 @@ author:
     affiliation: Magellan Laboratory, iaelyon school of management
     affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
 date: 08-24-2022
-categories: [Vulture funds, Research, Sovereign Debt, Financial Instability, Ethics] # self-defined categories
+categories: [Vulture funds, Hedge Funds, Research, Sovereign Debt, Financial Instability, Ethics] # self-defined categories
 citation: 
   url: https://fbalumeacademic.github.io/posts/2024-10-14-Vulture-funds/ 
 image: Vulture-funds.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-In this post, I would like to discuss the funds described by researchers in finance and economics as vulture funds. There are indeed investors whose actions are comparable to those of vultures on companies, or even governments. Indeed, the very first research on this subject focused almost exclusively on the impact of these funds on governments. One of the very first studies to document the impact of vulture funds on companies is Gietzman, 2018. In my 2024 study, I propose an in-depth exploration of the notion of vulture funds. In particular, I describe the role of vulture funds in the failure of companies due to their actions throughout the period of financial distress. These troubled financial periods are perfect for vulture funds to buy this type of debt, which they use as a leverage tool for the debtor. They typically seek to maximise returns by employing a variety of aggressive strategies, such as legal action or revising pricing terms that are favourable only to them, but which may exacerbate the financial difficulties faced by the original borrower. The analysis revolves around the following key points:
+In this post, I would like to discuss the funds identified by researchers in finance and economics as a specific category of hedge funds called vulture funds. There are indeed investors whose actions are comparable to those of vultures on companies, or even governments. Indeed, the very first research on this subject focused almost exclusively on the impact of these funds on governments. One of the very first studies to document the impact of vulture funds on companies is Gietzman, 2018. In my 2024 study, I propose an in-depth exploration of the notion of vulture funds. In particular, I describe the role of vulture funds in the failure of companies due to their actions throughout the period of financial distress. These troubled financial periods are perfect for vulture funds to buy this type of debt, which they use as a leverage tool for the debtor. They typically seek to maximize returns by employing a variety of aggressive strategies, such as legal action or revising pricing terms that are favorable only to them, but which may exacerbate the financial difficulties faced by the original borrower. The analysis revolves around the following key points:
 
 **Acquisition strategy:**
 
@@ -23,7 +23,7 @@ Vulture funds target companies that are in difficulty but have profit prospects.
 
 **Legal considerations:**
 
-The law can play an important role in limiting the reach of vulture funds and the impact of their actions on distressed companies. Indeed, there are some differences in legislation between countries. Belgium, for example, has succeeded in legislating in this area by significantly limiting the action of vulture funds, but the regulations in France are not entirely in line with the need to protect the lives of companies. And the law seems to be moving in two directions. On the one hand, the Sapin II law, which aims to make business life more ethical, may help to protect companies (provided that it includes a clear reference to financial partners). However, recent changes to bankruptcy law in France, which tend to be modelled on US bankruptcy law, are likely to favour debt holders, even if they bought the debt knowing that the company was in difficulty.
+The law can play an important role in limiting the reach of vulture funds and the impact of their actions on distressed companies. Indeed, there are some differences in legislation between countries. Belgium, for example, has succeeded in legislating in this area by significantly limiting the action of vulture funds, but the regulations in France are not entirely in line with the need to protect the lives of companies. And the law seems to be moving in two directions. On the one hand, the *Sapin II* law, which aims to make business life more ethical, may help to protect companies (provided that it includes a clear reference to financial partners). However, recent changes to bankruptcy law in France, which tend to be modeled on US bankruptcy law, are likely to favor debt holders, even if they bought the debt knowing that the company was in difficulty.
 
 **Ethical and regulatory considerations:**
 
@@ -33,7 +33,7 @@ My work highlights the need for a balance between debt market efficiency and eth
 
 **Impact on businesses and economies:**
 
-The aggressive tactics employed by vulture funds can exacerbate corporate financial instability and, in the case of sovereign debt, destabilise national economies. My paper notes that this approach often results in increased costs and reduced investment in long-term, value-generating activities. But even more importantly, vulture funds are not limited to companies in difficulty, but also extend to governments. The modus operandi remains the same, with a strategy aimed at buying debt and then demanding a higher return than expected.
+The aggressive tactics employed by vulture funds can exacerbate corporate financial instability and, in the case of sovereign debt, destabilize national economies. My paper notes that this approach often results in increased costs and reduced investment in long-term, value-generating activities. But even more importantly, vulture funds are not limited to companies in difficulty, but also extend to governments. The modus operandi remains the same, with a strategy aimed at buying debt and then demanding a higher return than expected.
 
 **Beyond my study, the impact of vulture funds on governments :**
 
@@ -42,3 +42,5 @@ According to studies carried out on vulture funds at state level, these funds ca
 This financial pressure slows economic recovery and exacerbates poverty, as resources that could be invested in development are diverted to satisfy the demands of these creditors. Financing costs also rise, as the risk of having debt bought by vulture funds in the event of default prompts investors to demand higher interest rates to compensate for this risk, further increasing the debt burden for fragile countries.
 
 In terms of governance, the influence of vulture funds can lead to a loss of economic sovereignty for the countries affected. Budgetary decisions become constrained by the obligation to meet the demands of these creditors, limiting the ability of governments to pursue autonomous policies based on the needs of their populations. In addition, the legal procedures and agreements imposed by these funds, often in foreign jurisdictions, hamper a country's ability to manage its own debt in a sovereign and orderly manner. This influence not only disrupts political stability, but also weakens local institutions by imposing governance geared towards short-term financial goals rather than long-term development.
+
+Access my study in *Finance-Contrôle-Stratégie* academic journal [here](https://journals.openedition.org/fcs/12700)
