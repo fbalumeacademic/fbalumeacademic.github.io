@@ -1,0 +1,22 @@
+---
+title: "Mon expérience à la Banque de France"
+description: "How a category of hedge funds represents a serious threat to corporate sustainability"
+author:
+  - name: Fidèle Balume
+    url: https://fbalumeacademic.github.io/
+    orcid: 0009-0000-5996-3547
+    affiliation: Magellan Laboratory, iaelyon school of management
+    affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
+date: 09-24-2019
+categories: [Financial analyst, ranking, Banque de France] #self-defined categories
+citation: 
+  url: https://fbalumeacademic.github.io/posts/2023-06-30-UNCCharlotte-visiting/ 
+image: banque-de-france-drapeaufrançais-européen.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Plusieurs étudiants en finance sont intéressés par des renseignements pouvant leur permettre de savoir comment s'y prendre pour rechercher un stage, comment se déroule les stages en général dans telle ou telle autre organisation, et comment choisir entre les différentes propositions de stage. J'ai décidé donc de vous livrer un retour d'expérience sur mon passage à la banque de France dans le cadre d'un de validation de mon Master IFT à l'iaelyon. et Après une année intense en Master Ingénierie financière et transaction, j'ai pu obtenir un stage de 6 mois à la banque de France.
+
+montrer qu'à certains moments, les choses ne se passaient pas très bien. Je sentais comme du racisme latent (peut aisément se justifier par le fait que les règles au sein de la banque de france font qu'ils ne peuvent pas embaucher les personnes de nationalité étrangère (critiquer cette règle et conclure qu'il faudrait spécifier cette information dans les contrats de stage : avoir cette information m'aurait permis d'avoir le choix au moment de rejoindre la banque de france. Mais cela ne m'avait pas été spécifié), parler de l'attitude de la responsable (pouvant peut-être s'expliquer par le choc culturel)
+
+nuancer en parlant de l'expérience dans orolia (citer nolwenn et les bons souvenir que je garde d'elle)

@@ -7,8 +7,8 @@ author:
     orcid: 0009-0000-5996-3547
     affiliation: Magellan Laboratory, iaelyon school of management
     affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
-date: 08-24-2022
-categories: [Vulture funds, Hedge Funds, Research, Sovereign Debt, Financial Instability, Ethics] # self-defined categories
+date: 10-14-2024
+categories: [Vulture funds, Hedge Funds, Corporate Debt, Sovereign Debt, Financial Instability, Ethics, Research] # self-defined categories
 citation: 
   url: https://fbalumeacademic.github.io/posts/2024-10-14-Vulture-funds/ 
 image: Vulture-funds.png
@@ -37,7 +37,7 @@ The aggressive tactics employed by vulture funds can exacerbate corporate financ
 
 **Beyond my study, the impact of vulture funds on governments :**
 
-According to studies carried out on vulture funds at state level, these funds can seriously impact the economy of a high-risk country by buying up its sovereign debt at low prices. These funds then demand high repayments, usually through default and aggressive legal proceedings. These practices force governments to allocate a significant proportion of their resources to repaying this debt, to the detriment of essential public spending such as education, health and infrastructure.
+According to studies carried out on vulture funds at country level, these funds can seriously impact the economy of a high-risk country by buying up its sovereign debt at low prices. These funds then demand high repayments, usually through default and aggressive legal proceedings. These practices force governments to allocate a significant proportion of their resources to repaying this debt, to the detriment of essential public spending such as education, health and infrastructure.
 
 This financial pressure slows economic recovery and exacerbates poverty, as resources that could be invested in development are diverted to satisfy the demands of these creditors. Financing costs also rise, as the risk of having debt bought by vulture funds in the event of default prompts investors to demand higher interest rates to compensate for this risk, further increasing the debt burden for fragile countries.
 
