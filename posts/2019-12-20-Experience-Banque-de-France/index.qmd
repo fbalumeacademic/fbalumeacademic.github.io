@@ -8,9 +8,9 @@ author:
     affiliation: Magellan Laboratory, iaelyon school of management
     affiliation-url: https://iae.univ-lyon3.fr/m-fidele-shukuru-balume
 date: 09-24-2019
-categories: [Financial analyst, ranking, Banque de France] #self-defined categories
+categories: [Financial Analyst, Ranking, Banque de France] #self-defined categories
 citation: 
-  url: https://fbalumeacademic.github.io/posts/2023-06-30-UNCCharlotte-visiting/ 
+  url: https://fbalumeacademic.github.io/posts/2019-09-24-Banque-de-France/ 
 image: banque-de-france-drapeaufrançais-européen.png
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
