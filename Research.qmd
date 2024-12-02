@@ -47,8 +47,4 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 
 ### Gestion comptable 1 (S1)
 
-##### Modèles de documents comptables :
-
-###### Cas de synthèse et compléments de corrigés : [Corrigé du Cas Matrix et quelques autres corrigés](RevisionsCompta.pdf)
-
 ### Gestion comptable 2 (S2)

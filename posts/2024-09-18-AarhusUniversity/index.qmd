@@ -1,6 +1,6 @@
 ---
-title: "Immersion in Behavioral Finance and presentation of my research at the University of Aarhus"
-description: "I'm giving you my feedback on my immersion in Behavioral Finance and on the Presentation of My Research at the University of Aarhus this summer"
+title: "Immersion in Behavioral Finance and presentation of my research at Aarhus University"
+description: "Let me share my feedback on my immersion in Behavioral Finance and the presentation of my research at Aarhus University this summer"
 author:
   - name: Fidèle Balume
     url: https://fbalumeacademic.github.io/

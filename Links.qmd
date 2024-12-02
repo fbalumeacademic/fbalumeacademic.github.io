@@ -1,9 +1,6 @@
 ---
 title: "Data and useful links"
 editor: visual
-Links:
-  - text: LBO Data from B. Ayash
-    ref: <https://sites.google.com/view/brian-ayash>
 ---
 
 ## Data
