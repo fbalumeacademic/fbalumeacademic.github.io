@@ -12,7 +12,7 @@ website:
         text: Home
       - about.qmd
       - Research.qmd
-      - Links.qmd
+      - links.qmd
       - posts.qmd
 
 format:
