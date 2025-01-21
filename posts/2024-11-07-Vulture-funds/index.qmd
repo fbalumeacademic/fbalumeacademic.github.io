@@ -1,6 +1,6 @@
 ---
 title: "Vulture funds"
-description: "Using Vivarte and Camaïeu as case studies, this article explores the potential impact of a particular category of hedge funds, known as ‘vulture funds’, on the sustainability of companies and wider economic dynamics."
+description: "This post explores the impact of a particular category of hedge funds, known as ‘vulture funds’, on the sustainability of companies and wider economic dynamics."
 author:
   - name: Fidèle Balume
     url: https://fbalumeacademic.github.io/
