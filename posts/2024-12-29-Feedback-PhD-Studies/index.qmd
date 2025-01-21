@@ -1,6 +1,6 @@
 ---
 title: "Feedback on my PhD studies"
-description: "Now that I've defended my thesis, I'd like to give you some feedback on my thesis experience."
+description: "Now that I've defended my thesis, I'd like to give you some feedback on my PhD experience.Note that this is a french perspective"
 author:
   - name: Fidèle Balume
     url: https://fbalumeacademic.github.io/
@@ -16,3 +16,23 @@ draft: true # setting this to `true` will prevent your post from appearing on yo
 ---
 
 Coming soon !
+
+General considerations
+
+En France une thèse est un CDD de 3 ou 4 ans sur un projet de recherche fondamentale ou de recherche et développement (contrat CIFRE). Elle est réalisée par des étudiants sortis d'école de niveau Bac+5. Un accompagnement par un directeur de thèse titulaire d'une HDR. L'objectif de tout projet de thèse est de produire des connaissances, de préférence reconnues par la communauté scientifique. C'est pour cette raison que le doctorant doit participer à plusieurs conférences pendant son parcours, mais également devrait idéalement publier au moins un article. Cet objectif est cependant très difficile à atteindre, et la plupart de doctorants n'y parviennent pas. Pour ma part, j'ai pu publier deux articles pendant mon parcours de thèse. Et je peux confirmer que ce n'est pas du tout facile de parvenir à publier pendant la thèse. Plusieurs raisons peuvent expliquer cela. Tout d'abord, le doctorant est rarement déjà un expert dans son domaine, deuxièmement il porte souvent un projet nouveau (à la limite pour lui) or l'acquisition des connaissances prend souvent beaucoup de temps.\
+
+Pendant ces années l'on travaille sur une partie de chaque chapitre requis (au moins 3 chapitres de résultats) pour que sa thèse soit validée.
+
+What I would love hear about before engaging in PhD studies ?
+
+What's cool in PhD studies ? (autonomous and critical thinking, several travels for research conferences, workshops and summer schools)
+
+What's you should be aware about before engaging in PhD studies ? ()
+
+Do you real choose your supervisor ? Or It's your supervisor who chooses you ? or none of you actually have choice ?
+
+The biggest challenge (finding funding : before your registration (you can still increase your revenu during your PhD journey, however this is not recommended because it's means less time for research, finding data : after your registration)
+
+Other constraints (Delay, PhD committee, the pressure to publish your first paper)
+
+About the delay : in France, the PhD is about 3 years of official funding, but usually students go beyond that delay attaining 4, 5, 6, 7 or more under special circomstances. But, It's commonly agreed that the PhD should last 4 to 5 years. This is certainly why the minimum official delay in USA is about 5 years. In my case, I made 5 years mainly due data missing and the Covid-19 that prevented me for travelling in USA for data collection.

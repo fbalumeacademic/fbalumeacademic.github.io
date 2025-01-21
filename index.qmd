@@ -1,5 +1,5 @@
 ---
-title: "Fidèle Balume"
+title: "Fidèle Balume, PhD"
 image: profile.png
 toc: false
 about: 
@@ -21,15 +21,15 @@ editor_options:
 
 ### Bio
 
-I am currently a PhD candidate at University Jean-Moulin Lyon 3. I'm working on the financial distress risk of LBO companies.
+I hold a PhD in Finance (University of Lyon). From a foundation in Monetary Economics to a Master's specialized in corporate finance and now a PhD from the University of Lyon (iaelyon School of Management), Finance has been at the heart of my academic career.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon, France \| PhD studies in Corporate Finance \| Oct. 2020 - present
+University of Lyon, Lyon, France \| PhD studies in Corporate Finance \| On Doctoral Contract : Oct. 2020 - Dec. 2024
 
-iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
 
 Visiting scholar at University of North Carolina at Charlotte, USA \| March - June 2023
 

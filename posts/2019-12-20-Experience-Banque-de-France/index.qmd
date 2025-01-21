@@ -1,6 +1,6 @@
 ---
-title: "Mon expérience à la Banque de France"
-description: "How a category of hedge funds represents a serious threat to corporate sustainability"
+title: "Mon expérience à la Banque de France: Tips pour trouver un stage"
+description: "L'objectif de ce post est d'aider les étudiants dans leur recherche de stage"
 author:
   - name: Fidèle Balume
     url: https://fbalumeacademic.github.io/
@@ -15,7 +15,9 @@ image: banque-de-france-drapeaufrançais-européen.png
 draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Plusieurs étudiants en finance sont intéressés par des renseignements pouvant leur permettre de savoir comment s'y prendre pour rechercher un stage, comment se déroule les stages en général dans telle ou telle autre organisation, et comment choisir entre les différentes propositions de stage. J'ai décidé donc de vous livrer un retour d'expérience sur mon passage à la banque de France dans le cadre d'un de validation de mon Master IFT à l'iaelyon. et Après une année intense en Master Ingénierie financière et transaction, j'ai pu obtenir un stage de 6 mois à la banque de France.
+Suite aux échanges que j'ai eu avec plusieurs étudiants, j'ai réalisé que la recherche de stage peut parfois être une expérience difficile. Plusieurs étudiants en finance sont intéressés par des renseignements pouvant leur permettre de savoir comment s'y prendre pour rechercher un stage, comment se déroule les stages en général dans telle ou telle autre organisation, et comment choisir entre les différentes propositions de stage. J'ai décidé donc de vous livrer un retour d'expérience sur mon passage à la banque de France dans le cadre de la validation de mon parcours en Ingénierie Financière et Transaction à l'iaelyon school of Management.
+
+et Après une année intense en Master Ingénierie financière et transaction, j'ai pu obtenir un stage de 6 mois à la banque de France.
 
 montrer qu'à certains moments, les choses ne se passaient pas très bien. Je sentais comme du racisme latent (peut aisément se justifier par le fait que les règles au sein de la banque de france font qu'ils ne peuvent pas embaucher les personnes de nationalité étrangère (critiquer cette règle et conclure qu'il faudrait spécifier cette information dans les contrats de stage : avoir cette information m'aurait permis d'avoir le choix au moment de rejoindre la banque de france. Mais cela ne m'avait pas été spécifié), parler de l'attitude de la responsable (pouvant peut-être s'expliquer par le choc culturel)
 
