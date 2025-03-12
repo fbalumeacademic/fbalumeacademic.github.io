@@ -38,6 +38,7 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 ### Financements structurés (S8)
 
 ### Finance (S6)
+###### Détermination d'une clé de contrôle ISIN : [Clé de contrôle ISIN - Fichier Excel](CléContrôleISIN.xlsx)
 
 ### Fondamentaux de la finance (S5)
 

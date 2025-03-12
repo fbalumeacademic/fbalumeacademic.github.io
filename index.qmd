@@ -5,7 +5,7 @@ toc: false
 about: 
   template: trestles
   image-shape: round
-  image-width: 30em
+  image-width: 29em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/fidèle-balume-b1a20a153
@@ -21,15 +21,15 @@ editor_options:
 
 ### Bio
 
-From a foundation in Monetary Economics to a Master's specialized in Corporate Finance and now a PhD from the University of Lyon (iaelyon School of Management), Finance has been at the heart of my academic career.
+Finance has been at the heart of my academic career, from a foundation in monetary economics to a Master's specialized in corporate finance and now a PhD from the University of Lyon.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-University of Lyon, Lyon, France \| PhD studies in Corporate Finance \| On Doctoral Contract : Oct. 2020 - Dec. 2024
+PhD studies in Corporate Finance \| University of Lyon, Lyon, France
 
-iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+Master in Financial Engineering and Transaction \| iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| Sept 2017 - June 2019
 
 Visiting scholar at University of North Carolina at Charlotte, USA \| March - June 2023
 
@@ -39,8 +39,16 @@ Summer school at Aarhus University, Denmark \| July - August 2022 & at Paris Sch
 
 ### Experience
 
-iaelyon School of Management \| Researcher and Teaching Assistant \| Sept. 2023 - present
+Researcher and Teaching Assistant \| iaelyon School of Management \| Sept. 2023 - present
 
-Banque de France \| Financial Analyst \| April 2019 - Sept 2019
+Financial Analyst \| Banque de France \| April 2019 - Sept 2019
+
+------------------------------------------------------------------------
+
+### Awards
+
+Doctoral Contract funding: Oct. 2020 to Aug. 2023
+
+Eiffel Excellence
 
 ------------------------------------------------------------------------
