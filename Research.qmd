@@ -7,15 +7,15 @@ editor: visual
 
 ## Publications
 
-[Balume, F., (2024). Fonds Vautours, Coûts Cognitifs et Faillite des LBO, *Finance Contrôle Stratégie*, (Vol. 27 No. 2)](https://journals.openedition.org/fcs/12793)
+[Balume, F., Gajewski, J. F., & King, DT. (2024). *LBO and Firm ESG Commitment*](https://www.emerald.com/mf/article-abstract/doi/10.1108/MF-08-2024-0647/1270906/LBO-and-firm-ESG-commitment?redirectedFrom=fulltext)
 
-[Balume, F., (2024). Vulture Funds, Cognitive Cost and LBO Bankruptcy. *Finance Contrôle Stratégie*, (Vol. 27 No. 2)](https://journals.openedition.org/fcs/12700)
+[Balume, F., (2024). Fonds Vautours, Coûts Cognitifs et Faillite des LBO, *Finance Contrôle Stratégie*](https://journals.openedition.org/fcs/12793)
 
-[Balume, F., Gajewski, J. F., & Heimann, M. (2024). Cognitive Load, Social Values, and Financial Distress: Drivers of Restructuring Decisions. *Review of Accounting and Finance*, (Vol. 23 No. 4, pp. 506-536).](https://www.emerald.com/insight/content/doi/10.1108/RAF-07-2023-0212/full/html)
+[Balume, F., (2024). Vulture Funds, Cognitive Cost and LBO Bankruptcy. *Finance Contrôle Stratégie*](https://journals.openedition.org/fcs/12700)
+
+[Balume, F., Gajewski, J. F., & Heimann, M. (2024). Cognitive Load, Social Values, and Financial Distress: Drivers of Restructuring Decisions. *Review of Accounting and Finance*.](https://www.emerald.com/insight/content/doi/10.1108/RAF-07-2023-0212/full/html)
 
 ## Conferences
-
-Balume, F., Gajewski, J. F., & King, DT. (2024). *LBO and Firm ESG Commitment*. In *18th National Yang-Ming Chiao Tung University (NYCU) International Finance Conference*.
 
 Balume, F., Gajewski, J. F., & King, DT. (2024). *The Effect of the LBO Deal On The Firm’s ESG Commitment ?*. In[ *40th International Conference of the French Financial Association (AFFI)*.](https://affi2024.eventsadmin.com/i/Program)
 
@@ -35,17 +35,14 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 
 # Teachings
 
-### Financements structurés (S8)
+#### - Finance
 
-### Finance (S6)
-###### Détermination d'une clé de contrôle ISIN : [Clé de contrôle ISIN - Fichier Excel](CléContrôleISIN.xlsx)
+#### - Analyse financière
 
-### Fondamentaux de la finance (S5)
+#### - Advance Corporate Finance
 
-###### Choix d'investissement : [Modèle FTN, VAN, TRI & IP - Fichier Excel](ModèleChoixInvestissement.xlsx)
+#### - Corporate Valuation and Financial Engineering
 
-### Contrôle de gestion (S3)
+#### - Portfolio management
 
-### Gestion comptable 1 (S1)
 
-### Gestion comptable 2 (S2)

@@ -1,11 +1,11 @@
 ---
-title: "Fidèle Balume, PhD"
-image: profile.png
+title: "Fidèle Balume"
+image: profile1.png
 toc: false
 about: 
   template: trestles
   image-shape: round
-  image-width: 29em
+  image-width: 30em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/fidèle-balume-b1a20a153
@@ -21,26 +21,26 @@ editor_options:
 
 ### Bio
 
-I hold a PhD in corporate finance from the University of Lyon, preceded by two master's degrees: in financial engineering and transactions, and in international and monetary economics. This background has allowed me to develop solid expertise in financial structuring and economic analysis, which enable me to teach at university level.
+I am currently a Assistant Professor of Finance at ESSCA School of Management. I'm working on the financial distress risk of LBO companies.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-PhD studies in Corporate Finance \| University of Lyon, Lyon, France \| 2020-2024
+University of Lyon, Lyon, France \| PhD studies in Corporate Finance \| 2020 - 2024
 
-Master in Financial Engineering and Transaction \| iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| 2017 - 2019
+iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
 
 Visiting scholar at University of North Carolina at Charlotte, USA \| March - June 2023
 
-Summer school at Aarhus University, Denmark \| Jul. - Aug. 2022 & at Paris School of Economics (PSE), France \| Jun. 2021
+Summer school at Aarhus University, Denmark \| July - August 2022 & at Paris School of Economics (PSE), France \| June 2021
 
 ------------------------------------------------------------------------
 
 ### Experience
 
-Researcher and Teaching Assistant \| iaelyon School of Management \| Sept. 2023 - now
+iaelyon School of Management \| Researcher and Teaching Assistant \| Sept. 2023 - Aug. 2025
 
-Financial Analyst \| Banque de France \| Apr. 2019 - Sept. 2019
+Banque de France \| Financial Analyst \| April 2019 - Sept 2019
 
 ------------------------------------------------------------------------

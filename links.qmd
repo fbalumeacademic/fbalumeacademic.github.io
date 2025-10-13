@@ -11,50 +11,18 @@ editor: visual
 
 -   [Financial scandals](http://projects.exeter.ac.uk/RDavies/arian/scandals/)
 
--   [DataBank From The World Bank Group](https://databank.worldbank.org/home)
-
--   [IMF Data Portal](https://www.imf.org/en/Data)
-
--   [Enterprise Survey From The World Bank Group](https://www.enterprisesurveys.org/en/enterprisesurveys)
-
 ## Useful links
-
--   [Multifactor General Knowledge Test](https://openpsychometrics.org/tests/MGKT2/)
-
--   [Big Five Personality Test](https://openpsychometrics.org/tests/IPIP-BFFM/)
-
--   [Open Hemispheric Brain Dominance Scale](https://openpsychometrics.org/tests/OHBDS/)
-
--   [Short Dark Triad](https://openpsychometrics.org/tests/SD3/)
-
--   [Carver and White's BIS/BAS Scales from Psychological Testing Online](https://psytests.org/trait/bisbasen.html)
-
--   [Fisher Temperament Inventory](https://openpsychometrics.org/tests/FTI/)
-
--   [Psychometric Media Recommendation Engine](https://openpsychometrics.org/tests/PMRE/)
-
--   [Nerdy Personality Attributes Scale](https://openpsychometrics.org/tests/NPAS/)
-
--   [Four Temperaments Test](https://openpsychometrics.org/tests/O4TS/)
-
--   [Generic Conspiracist Beliefs Scale](https://openpsychometrics.org/tests/GCBS/)
-
--   [Nonverbal Immediacy Scale](https://openpsychometrics.org/tests/NIS/)
-
--   [Artistic Preferences Scales](https://openpsychometrics.org/tests/APS/)
 
 -   [Harvard cases](https://hbsp.harvard.edu/home/)
 
 -   [Cases from Ivey](https://www.iveypublishing.ca/s/)
 
--   [Yale Case studies](https://som.yale.edu/case-studies/case-studies-directory?page=0&search=&sort=ds_field_case_published%20desc)
-
--   [Central des cas et de medias pédagogiques](https://www.casestudies.ccmp.fr) (français)
-
--   [Vernimmen Finance](https://www.vernimmen.net) (français)
-
 -   [Fama-French portfolios and risk factors from Kenneth French's](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+
+-   [Carver and White's BIS/BAS Scales form Psychological Testing Online](https://psytests.org/trait/bisbasen.html)
 
 -   [SSRN's Financial Economics Network](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203#AnnType_1)
 
 -   [Warren Buffet company and writtings](https://www.berkshirehathaway.com)
+
+-   [Vernimmen Finance](https://www.vernimmen.net) (fr)
