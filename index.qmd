@@ -14,14 +14,14 @@ about:
     - text: GitHub
       href: https://github.com/f-balume
     - text: Email
-      href: mailto:fidele.shukuru-balume1@univ-lyon3.fr
+      href: mailto:fidele.shukuru-balume@essca.fr
 editor_options: 
   chunk_output_type: console
 ---
 
 ### Bio
 
-I am currently a Assistant Professor of Finance at ESSCA School of Management. I'm working on the financial distress risk of LBO companies.
+I am an Assistant Professor of Finance at ESSCA School of Management. I hold a PhD in corporate finance from the University of Lyon and two master’s degrees: in Financial Engineering and Transactions and in International and Monetary Economics. 
 
 ------------------------------------------------------------------------
 
