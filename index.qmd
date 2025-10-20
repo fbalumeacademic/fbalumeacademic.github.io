@@ -1,11 +1,11 @@
 ---
-title: "Fidèle Balume"
+title: "Fidèle Balume, PhD"
 image: profile1.png
 toc: false
 about: 
   template: trestles
   image-shape: round
-  image-width: 30em
+  image-width: 29em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/fidèle-balume-b1a20a153
@@ -14,33 +14,37 @@ about:
     - text: GitHub
       href: https://github.com/f-balume
     - text: Email
-      href: mailto:fidele.shukuru-balume@essca.fr
+      href: mailto:fidele.shukuru-balume1@univ-lyon3.fr
 editor_options: 
   chunk_output_type: console
 ---
 
 ### Bio
 
-I am an Assistant Professor of Finance at ESSCA School of Management. I hold a PhD in corporate finance from the University of Lyon and two master’s degrees: in Financial Engineering and Transactions and in International and Monetary Economics. 
+I am an Assistant Professor of Finance at ESSCA School of Management. I hold a PhD in corporate finance from the University of Lyon and two master’s degrees: in Financial Engineering and Transactions and in International and Monetary Economics.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-University of Lyon, Lyon, France \| PhD studies in Corporate Finance \| 2020 - 2024
+PhD degree in Corporate Finance \| University of Lyon, Lyon, France \| 2020-2024
 
-iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+Master in Financial Engineering and Transaction \| iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| 2017 - 2019
 
-Visiting scholar at University of North Carolina at Charlotte, USA \| March - June 2023
+Visiting scholar at University of North Carolina at Charlotte, USA \| 2023
 
-Summer school at Aarhus University, Denmark \| July - August 2022 & at Paris School of Economics (PSE), France \| June 2021
+Summer school in Behavioral finance at Aarhus University, Denmark \| Jul. - Aug. 2022
+
+Summer school in Climate finance at Paris School of Economics, France \| Jun. 2021
 
 ------------------------------------------------------------------------
 
-### Experience
+### Selected experiences
 
-iaelyon School of Management \| Researcher and Teaching Assistant \| Sept. 2023 - Aug. 2025
+iaelyon School of Management \| Researcher and Teaching Associate (ATER) \| 2023 - 2025
 
-Banque de France \| Financial Analyst \| April 2019 - Sept 2019
+Banque de France \| Financial Analyst \| 2019
+
+Other experiences
 
 ------------------------------------------------------------------------
