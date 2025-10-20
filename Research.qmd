@@ -37,14 +37,14 @@ Balume, F., (2022). *The Cognitive Load Impact on Managers’ Rationality and t
 
 # Teachings
 
-### Analyse financière
+#### Analyse financière
 
-### Financements structurés
+#### Financements structurés
 
-### Fondamentaux de la finance
+#### Fondamentaux de la finance
 
-### Advanced Corporate Finance
+#### Advanced Corporate Finance
 
-### Corporate Valuation and Financial Engineering
+#### Corporate Valuation and Financial Engineering
 
-### Portfolio Management
+#### Portfolio Management

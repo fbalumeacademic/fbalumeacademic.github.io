@@ -21,17 +21,15 @@ editor_options:
 
 ### Bio
 
-I am an Assistant Professor of Finance at ESSCA School of Management. I hold a PhD in corporate finance from the University of Lyon and two master’s degrees: in Financial Engineering and Transactions and in International and Monetary Economics.
+I am an Assistant Professor of Finance at ESSCA School of Management. I hold a PhD in Corporate Finance from the University of Lyon and two master’s degrees: in Financial Engineering & Transactions and in International & Monetary Economics.
 
 ------------------------------------------------------------------------
 
 ### Education
 
-PhD degree in Corporate Finance \| University of Lyon, Lyon, France \| 2020-2024
+PhD in Corporate Finance \| University of Lyon, Lyon, France \| 2020-2024
 
-Master in Financial Engineering and Transaction \| iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| 2017 - 2019
-
-Visiting scholar at University of North Carolina at Charlotte, USA \| 2023
+Master in Financial Engineering & Transaction \| iaelyon school of management, Jean-Moulin Lyon 3 University, Lyon, France \| 2017 - 2019
 
 Summer school in Behavioral finance at Aarhus University, Denmark \| Jul. - Aug. 2022
 
@@ -41,10 +39,10 @@ Summer school in Climate finance at Paris School of Economics, France \| Jun. 20
 
 ### Selected experiences
 
-iaelyon School of Management \| Researcher and Teaching Associate (ATER) \| 2023 - 2025
+Visiting scholar at University of North Carolina at Charlotte, USA \| 2023 \| 2025
+
+iaelyon School of Management \| Researcher and Teaching Associate \| 2023 - 2025
 
 Banque de France \| Financial Analyst \| 2019
-
-Other experiences
 
 ------------------------------------------------------------------------
